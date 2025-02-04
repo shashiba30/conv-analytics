@@ -1,0 +1,24 @@
+openai==1.60.2
+python_dotenv==1.0.1
+Faker==35.2.0
+clickhouse-driver==0.2.9
+kagglehub==0.3.6
+sdv==1.17.4
+xlrd==2.0.1
+langchain==0.3.17
+langchain_openai==0.3.3
+clickhouse-sqlalchemy==0.3.2
+# llama_index==0.12.15
+# llama_index_vector_stores_clickhouse==0.4.0
+# llama_index_llms_azure_openai==0.3.0
+# llama-index-embeddings-huggingface==0.2.1
+langchain-experimental==0.3.4
+streamlit==1.24.1
+pandas
+plotly==5.24.1
+sqlalchemy==2.0.3
+openai
+gender-guesser
+matplotlib
+gradio
+###  pip install langchain openai
